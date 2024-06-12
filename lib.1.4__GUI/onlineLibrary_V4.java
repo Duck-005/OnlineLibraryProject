@@ -6,8 +6,8 @@ import java.io.*;
 import java.util.ArrayList;
 
 public class onlineLibrary_V4 {
-    final private String databaseFilePath = "C:/Users/Raghavendra/IdeaProjects/First_AttemptJava/src/onlineLibraryProject/database.csv";
-    final private String issuedDatabaseFilePath = "C:/Users/Raghavendra/IdeaProjects/First_AttemptJava/src/onlineLibraryProject/issuedDatabase.csv";
+    final private String databaseFilePath = "database.csv";
+    final private String issuedDatabaseFilePath = "issuedDatabase.csv";
     final ArrayList<ArrayList<String>> database, issuedDatabase;
     String[] col = {"ID", "Name", "Author(s)", "Language", "Pub. Year", "Genre"};
 
