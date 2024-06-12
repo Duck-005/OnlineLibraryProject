@@ -55,4 +55,4 @@ plt.imshow(image)
 plt.axis('off')
 plt.show()
 
-image.save("C:\\Users\\Raghavendra\\OneDrive\\Desktop\\logo.png")
+image.save("logo.png")
