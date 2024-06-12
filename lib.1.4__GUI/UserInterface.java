@@ -17,7 +17,6 @@ public class UserInterface extends JFrame {
 
     JPanel cards;
     Color lightGreyBG = new Color(58, 58, 58, 255);
-//    DefaultTableModel availableBooksModel = new DefaultTableModel(), issuedBooksModel = new DefaultTableModel();
 
     JButton issuedBooksButton;
     JButton availableBooksButton;
@@ -29,7 +28,7 @@ public class UserInterface extends JFrame {
     JTextField searchField;
 
     public void displayMenu(){
-        String filePath = "C:/Users/Raghavendra/IdeaProjects/First_AttemptJava/src/onlineLibraryProject/online_Library_V4/logo.png";
+        String filePath = "logo.png";
         ImageIcon logo = new ImageIcon(new ImageIcon(filePath).getImage().getScaledInstance(200, 120, Image.SCALE_SMOOTH));
 
         setupLookAndFeel();
