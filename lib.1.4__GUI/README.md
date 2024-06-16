@@ -10,18 +10,18 @@ or add books to the library, issue books, see the history and number of books av
 ### About section
 The Color theme of the UI is chosen sky blue and background as a faded black but not quite grey.
 
-![aboutSection](https://github.com/Duck-005/OnlineLibraryProject/assets/151392202/792a7171-a390-453f-a95c-b3b4afa5578c)
+![about](https://github.com/Duck-005/OnlineLibraryProject/assets/151392202/a7773ae3-9065-4bd9-b11e-84938603f3e8)
 
 ### Table rendering
 All the data is extracted and loaded onto a table and can be scrolled.
 
-![booksTable](https://github.com/Duck-005/OnlineLibraryProject/assets/151392202/5e8becbb-88bf-42cb-bcf3-88bc452bf934)
+![table](https://github.com/Duck-005/OnlineLibraryProject/assets/151392202/7bf8a141-c1c1-45e5-913f-30ea938fa53e)
 
 ### Issuing Books
 After clicking on the issue books button a window pops up that prompts you to add the ID of the
 book you want to issue and confirms the same.
 
-![issueBooks](https://github.com/Duck-005/OnlineLibraryProject/assets/151392202/98357df4-6d34-4939-8c57-6166cec2ed35)
+![issue](https://github.com/Duck-005/OnlineLibraryProject/assets/151392202/8b76dab4-ce25-4c53-a551-9b48b1282ce4)
 
 ### Technical details summary
 * All the data is extracted on startup through the constructor `onlineLibrary_V4()` and loaded onto
