@@ -14,3 +14,8 @@ Future aims involve integrating more features like
 - [ ] integrating an actual database using DBMS instead of exel sheets to store data.
 - [ ] Authentication system in place for admin access or normal access.
 
+### Installation
+1. Make sure git and java is installed in the system.
+2. Use `git clone https://github.com/Duck-005/OnlineLibraryProject.git` command on the terminal.
+3. `cd OnlineLibraryProject/lib.1.4_GUI` and verify if the cloning is properly done.
+4. Run the `Main.java` file for the GUI or `../lib.1.3_CLI/online_Library_V3.java` for the CLI version.
